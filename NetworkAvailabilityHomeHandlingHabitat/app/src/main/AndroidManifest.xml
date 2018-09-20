@@ -24,8 +24,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Activities.ViewRoomsActivity"
-            android:label="@string/title_activity_view_rooms"
+            android:name=".Activities.MainActivity"
+            android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
