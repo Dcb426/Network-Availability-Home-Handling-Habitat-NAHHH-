@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191255854905",
+    "firebase_url": "https://networkavailabilityhomehandlin.firebaseio.com",
+    "project_id": "networkavailabilityhomehandlin",
+    "storage_bucket": "networkavailabilityhomehandlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191255854905:android:977a69f253776694",
+        "android_client_info": {
+          "package_name": "com.example.shangbao.networkavailabilityhomehandlinghabitat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191255854905-uq63khpdi7bqnep9kctkkjhr78li1jo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shangbao.networkavailabilityhomehandlinghabitat",
+            "certificate_hash": "e3299d610172b3e3965a78b58d15fe48ebe63dc3"
+          }
+        },
+        {
+          "client_id": "191255854905-hu73322d0a23j9kaldqhri318736pfu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevdYUbPtvKlgRvH1biopQ5lJ0trs4f4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191255854905-hu73322d0a23j9kaldqhri318736pfu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
